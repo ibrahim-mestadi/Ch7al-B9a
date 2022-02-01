@@ -2,4 +2,4 @@
 
 A stock management project, to practice JEE, Servlets,JSP, JSTL, MySql and more ...
 
-### more features & documentation doc will be added soon ;)  
+### more features & user manual will be added soon ;)  
